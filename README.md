@@ -1,4 +1,4 @@
-## testing something out.
+<!-- THIS DISPLAYS THE GITHUB STATS USING GITHUB-STATS-EXTENDED -->
 [![Krist Fel's GitHub stats](https://github-stats-extended.vercel.app/api?username=kfc-emanes)](https://github.com/stats-organization/github-stats-extended)
 <!--
 **kfc-emanes/kfc-emanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
